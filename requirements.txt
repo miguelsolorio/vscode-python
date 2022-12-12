@@ -4,7 +4,7 @@
 #
 #    pip-compile --generate-hashes requirements.in
 #
-isort==5.10.0 \
-    --hash=sha256:1a18ccace2ed8910bd9458b74a3ecbafd7b2f581301b0ab65cfdd4338272d76f \
-    --hash=sha256:e52ff6d38012b131628cf0f26c51e7bd3a7c81592eefe3ac71411e692f1b9345
+isort==5.11.0 \
+    --hash=sha256:1b8631908ecc1b7108801801e510c4bf908962b77bd44882a3873566542f7255 \
+    --hash=sha256:7aa325a6cbbc086cb74db2e9cc838a8089f8a6e1da26780d8d6d6b24e37f4e5f
     # via -r requirements.in
